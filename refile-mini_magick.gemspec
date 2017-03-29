@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'refile/mini_magick/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "refile-mini_magick"
+  spec.name          = "leifcr-refile-mini_magick"
   spec.version       = Refile::MiniMagick::VERSION
   spec.authors       = ["Jonas Nicklas"]
   spec.email         = ["jonas.nicklas@gmail.com"]
